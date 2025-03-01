@@ -1,5 +1,0 @@
-#!/bin/sh
-cd "$(dirname "$0")"
-cd "../Resources"
-cd "./YoutubeDownloader.osx-arm64"
-./YoutubeDownloader
